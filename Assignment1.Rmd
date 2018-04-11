@@ -13,15 +13,15 @@ I am working on Turkcell as consumer finance systems engineer at the application
 
 ##Example 1
 
-I found some of the conversations interesting in the RStudio Conference 2018. The first of these is Phrasing: Communicating data science through tweets, gifs, and classic misdirection. [here](https://www.rstudio.com/resources/videos/phrasing-communicating-data-science-through-tweets-gifs-and-classic-misdirection/) The speaker is Mara Averick who is reseaerh analyst at RStudio, Data Nerd. 
+I found some of the conversations interesting in the RStudio Conference 2018. The first of these is Phrasing: [Communicating data science through tweets, gifs, and classic misdirection].(https://www.rstudio.com/resources/videos/phrasing-communicating-data-science-through-tweets-gifs-and-classic-misdirection/) The speaker is Mara Averick who is reseaerh analyst at RStudio, Data Nerd. 
 
 ##Example 2
 
-The other conversations is the Large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio. [here] (https://www.rstudio.com/resources/videos/large-scale-machine-learning-using-tensorflow-bigquery-and-cloudml-engine-within-rstudio/)
+The other conversations is the [Large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio.] (https://www.rstudio.com/resources/videos/large-scale-machine-learning-using-tensorflow-bigquery-and-cloudml-engine-within-rstudio/)
 
 ##Example 3
 
-Another example is Machine Learning with TensorFlow and R. [here] (https://www.rstudio.com/resources/videos/machine-learning-with-tensorflow-and-r/)
+Another example is [Machine Learning with TensorFlow and R.] (https://www.rstudio.com/resources/videos/machine-learning-with-tensorflow-and-r/)
 
 
 
