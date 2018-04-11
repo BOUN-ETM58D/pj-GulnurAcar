@@ -5,10 +5,10 @@ date: "4/10/2018"
 output: html_document
 ---
 
-##Part 1 - About Me
+###Part 1 - About Me
 
 I am working on Turkcell as consumer finance systems engineer at the application operation department. I give support to applications of TFŞ (Turkcell Finansman A.Ş.). There is a big data actually. There is a lot of data that can be reached about customer information. We have a great opportunity to do it with r-programming
 
-##Part 2 - Example 1
+###Part 2 - Example 1
 
 
