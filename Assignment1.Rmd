@@ -17,11 +17,11 @@ I found some of the conversations interesting in the RStudio Conference 2018. Th
 
 ##Example 2
 
-The other conversations is the Large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio.[here](https://www.rstudio.com/resources/videos/large-scale-machine-learning-using-tensorflow-bigquery-and-cloudml-engine-within-rstudio/)
+The other conversations is the Large scale machine learning using TensorFlow, BigQuery and CloudML Engine within RStudio. [here](https://www.rstudio.com/resources/videos/large-scale-machine-learning-using-tensorflow-bigquery-and-cloudml-engine-within-rstudio/)
 
 ##Example 3
 
-Another example is Machine Learning with TensorFlow and R.[here](https://www.rstudio.com/resources/videos/machine-learning-with-tensorflow-and-r/)
+Another example is Machine Learning with TensorFlow and R. [here](https://www.rstudio.com/resources/videos/machine-learning-with-tensorflow-and-r/)
 
 
 
