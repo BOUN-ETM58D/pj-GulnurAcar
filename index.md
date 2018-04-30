@@ -1,6 +1,6 @@
-### Assignment 3 - OSYM DATA ANALYSIS
+### Assignment 3 - OSYM Data Analysis
 
-ou can find information about my OSYM data analysis studying. [Here](Assignment3.html)
+You can find information about my OSYM data analysis studying. [Here](osym_data_gulnur.html)
 
 ### Assignment 1 
 
